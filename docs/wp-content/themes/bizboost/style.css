@@ -35,6 +35,22 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased; }
 
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 55%;
+  background: #222222;
+  transition: all 200ms;
+}
+
+.fa:hover {
+  background: #F0F0F0;
+}
+
 /*
  * Text and navigation link styles.
  * Necessary until the following issue is resolved in Gutenberg:
