@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WHHC</title>
+	<atom:link href="https://whhc-research.github.io/whhc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whhc-research.github.io/whhc</link>
+	<description>SECURING THE CYBER WORLD ONE BYTE AT A TIME</description>
+	<lastBuildDate>Sat, 14 Oct 2023 10:09:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/WhatsApp_Image_2023-09-28_at_5.54.42_PM-removebg-preview-150x150.png</url>
+	<title>WHHC</title>
+	<link>https://whhc-research.github.io/whhc</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AI DRIVEN THREAT DETECTION</title>
+		<link>https://whhc-research.github.io/whhc/2023/10/14/ai-driven-threat-detection/</link>
+					<comments>https://whhc-research.github.io/whhc/2023/10/14/ai-driven-threat-detection/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 14 Oct 2023 10:09:38 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">https://whhc-research.github.io/whhc/?p=221</guid>
+
+					<description><![CDATA[A critical component of contemporary cybersecurity solutions is threat detection driven by AI. It involves implementing and utilizing Artificial Intelligence (AI) algorithms and Machine Learning (ML) models to detect and respond to cyber threats in real time. Here&#8217;s a quick primer on AI-powered threat detection in cybersecurity. Essential characteristics and advantages To summarize, AI-driven threat [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>A critical component of contemporary cybersecurity solutions is threat detection driven by AI. It involves implementing and utilizing Artificial Intelligence (AI) algorithms and Machine Learning (ML) models to detect and respond to cyber threats in real time. Here&#8217;s a quick primer on AI-powered threat detection in cybersecurity.</p>
+
+
+
+<p><strong><em><u>Essential characteristics and advantages</u></em></strong></p>
+
+
+
+<ol type="1" start="1">
+<li><strong>Anomaly Detection : </strong>Artificial intelligence-powered systems are capable of identifying odd patterns or user behavior in a system, network, or network of systems. This aids in spotting potential risks that the traditional rule-based techniques could miss.</li>
+
+
+
+<li><strong>Continuous Monitoring </strong>: AI-powered threat detection is always on, delivering round-the-clock monitoring and prompt notifications when anomalies or suspicious activity are found.</li>
+
+
+
+<li><strong>Real-time Response :</strong> By isolating damaged systems, blocking malicious traffic, or launching incident response procedures, AI systems may automatically respond to threats in real-time, drastically reducing the attack surface and limiting damage.</li>
+
+
+
+<li><strong>Adaptive Learning :</strong> By periodically analyzing and learning from fresh data, machine learning models may adjust and get better over time. This ensures that as new threats emerge, threat detection capabilities become more effective.</li>
+
+
+
+<li>Reduced false positives, threat prioritization, scalability, behavioral analysis and early threat detecting are also some of the important advantages.</li>
+
+
+
+<li><strong>Data Quality : </strong>High-quality data is necessary for AI algorithms to detect threats accurately. False positives or false negatives may result from inaccurate or biased data.</li>
+
+
+
+<li><strong>Complexity : </strong>AI-driven threat detection execution can be challenging and may need specialized knowledge in data science and cybersecurity.</li>
+
+
+
+<li><strong>Evasion Techniques : </strong>AI-based detection systems ought to be updated and upgraded constantly since cyber attackers could devise evasion techniques to get around them.</li>
+
+
+
+<li><strong>Privacy Concerns : </strong>The use of AI for monitoring user behavior raises privacy concerns, and organizations must find an appropriate balance between security and user privacy rights.</li>
+</ol>
+
+
+
+<p>To summarize, AI-driven threat detection is a valuable tool in the cybersecurity armory, allowing organizations to detect and respond to cyber attacks more effectively and efficiently. In an environment with a complex and altering threat landscape, it is crucial to have a complete cybersecurity strategy.</p>
+
+
+
+<p>=========================================================</p>
+
+
+
+<p><strong><em><u>BLOCKCHAIN</u></em></strong></p>
+
+
+
+<p>Blockchain is a decentralized and secure technology that is used for transaction recording and verification. It can be utilized in a variety of industries, including finance, supply chain, and healthcare, assuring data transparency and immutability. All the transactions in a network are recorded, similar to a digital ledger.</p>
+
+
+
+<p><strong><em>Few ways in which blockchain enhances security:</em></strong></p>
+
+
+
+<ol type="1">
+<li><strong>Immutability : </strong>As a result of the confidentiality of blockchain, it is exceedingly impossible to change or remove data after it has been recorded. This is an essential feature that prevents unauthorized access to sensitive data.</li>
+
+
+
+<li><strong>Decentralization : </strong>The distributed design of blockchain networks eliminates single points of failure, making them more resilient to attacks and lowering the danger of a central authority being compromised.</li>
+
+
+
+<li><strong>Cryptography : </strong>Blockchain uses powerful cryptographic methods to secure data. Data integrity and authenticity are guaranteed via transaction signatures and encryption, making it impenetrable to unauthorized changes.</li>
+
+
+
+<li><strong>Consensus Mechanism : </strong>To verify and store transactions, blockchain networks rely on consensus processes like Proof of Work (PoW) or Proof of Stake (PoS). By ensuring that it&#8217;s computationally challenging for malicious actors to take control of the network, these measures give an extra layer of security.</li>
+
+
+
+<li><strong>Smart Contacts : </strong>Smart contracts can be created on blockchain systems like Ethereum to automate procedures and enforce agreements without the use of middlemen. By lowering the possibility of fraud or agreement manipulation, smart contracts can improve security.</li>
+</ol>
+
+
+
+<p>=========================================================</p>
+
+
+
+<p><strong><u>QUANTUM RESISTANT CRYPTOGRAPHY</u></strong></p>
+
+
+
+<p>Post-quantum cryptography, also known as quantum-resistant cryptography, aims to create cryptographic systems that are impenetrable to both quantum and standard technology, and are compatible with alive networks and communications protocols. This is an important field of research to ensure the security of sensitive information in the future. Research on post-quantum cryptography is now mostly concentrated on various strategies, such as :</p>
+
+
+
+<ul>
+<li>1. Lattice-based</li>
+
+
+
+<li>2. Multivariate-based</li>
+
+
+
+<li>3. Hash-based</li>
+
+
+
+<li>4. Code-based</li>
+
+
+
+<li>5. Isogeny-based</li>
+</ul>
+
+
+
+<p><strong><em>Feature about the future of quantum resistant cryptography</em></strong></p>
+
+
+
+<ol type="1" start="1">
+<li><strong>UNBREAKABLE ENCRYPTION : </strong>Rock-solid encryption that can withstand even the most sophisticated quantum computers will be provided by quantum-resistant algorithms and your data will be extremely secure.</li>
+
+
+
+<li><strong>FUTURE PROOF SECURITY : </strong>You won&#8217;t need to be concerned about future technological advancements compromising your encrypted information if you use quantum-resistant cryptography. It serves as a shield against the unidentified.</li>
+
+
+
+<li><strong>SPEEDY PERFORMANCE : </strong>Despite the complexity of quantum-resistant algorithms, they&#8217;ll be designed to run super fast, ensuring efficient encryption and decryption processes.</li>
+
+
+
+<li><strong>WIDE COMPATIBILITY : </strong>Going forward, quantum-resistant cryptography will be compatible with all sorts of devices and platforms, making it easier for everyone to use and enjoy its resilient feature.</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://whhc-research.github.io/whhc/2023/10/14/ai-driven-threat-detection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BYTES</title>
+		<link>https://whhc-research.github.io/whhc/2023/09/28/bytes/</link>
+					<comments>https://whhc-research.github.io/whhc/2023/09/28/bytes/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 28 Sep 2023 13:02:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://whhc-research.github.io/whhc/?p=100</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img fetchpriority="high" decoding="async" width="1024" height="576" class="wp-block-cover__image-background wp-image-91" alt="" src="https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1024x576.jpg" data-object-fit="cover" srcset="https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1024x576.jpg 1024w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-300x169.jpg 300w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-768x432.jpg 768w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1536x864.jpg 1536w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<pre class="wp-block-code"><code>A byte is a fundamental unit of digital information storage and processing in computing. It represents eight binary digits, or bits, and can encode a single character of text, a small integer, or other basic data types. The term "byte" was coined by Dr. Werner Buchholz in 1956 while working at IBM. He proposed this name to describe a group of bits used to encode a single character. Bytes have since become a cornerstone of computer architecture, allowing the representation of a wide range of data and forming the basis for various data storage and manipulation operations in modern computing systems.</code></pre>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://whhc-research.github.io/whhc/2023/09/28/bytes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
