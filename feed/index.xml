@@ -9,8 +9,8 @@
 
 <channel>
 	<title>WHHC</title>
-	<atom:link href="https://whhc-research.github.io/whhc/feed/" rel="self" type="application/rss+xml" />
-	<link>https://whhc-research.github.io/whhc</link>
+	<atom:link href="https://whhc.in/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whhc.in</link>
 	<description>SECURING THE CYBER WORLD ONE BYTE AT A TIME</description>
 	<lastBuildDate>Sat, 14 Oct 2023 10:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/WhatsApp_Image_2023-09-28_at_5.54.42_PM-removebg-preview-150x150.png</url>
+	<url>https://whhc.in/wp-content/uploads/2023/09/WhatsApp_Image_2023-09-28_at_5.54.42_PM-removebg-preview-150x150.png</url>
 	<title>WHHC</title>
-	<link>https://whhc-research.github.io/whhc</link>
+	<link>https://whhc.in</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>AI DRIVEN THREAT DETECTION</title>
-		<link>https://whhc-research.github.io/whhc/2023/10/14/ai-driven-threat-detection/</link>
-					<comments>https://whhc-research.github.io/whhc/2023/10/14/ai-driven-threat-detection/#respond</comments>
+		<link>https://whhc.in/2023/10/14/ai-driven-threat-detection/</link>
+					<comments>https://whhc.in/2023/10/14/ai-driven-threat-detection/#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Sat, 14 Oct 2023 10:09:38 +0000</pubDate>
 				<category><![CDATA[Articles]]></category>
-		<guid isPermaLink="false">https://whhc-research.github.io/whhc/?p=221</guid>
+		<guid isPermaLink="false">https://whhc.in/?p=221</guid>
 
 					<description><![CDATA[A critical component of contemporary cybersecurity solutions is threat detection driven by AI. It involves implementing and utilizing Artificial Intelligence (AI) algorithms and Machine Learning (ML) models to detect and respond to cyber threats in real time. Here&#8217;s a quick primer on AI-powered threat detection in cybersecurity. Essential characteristics and advantages To summarize, AI-driven threat [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -182,29 +182,29 @@
 </ol>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://whhc-research.github.io/whhc/2023/10/14/ai-driven-threat-detection/feed/</wfw:commentRss>
+					<wfw:commentRss>https://whhc.in/2023/10/14/ai-driven-threat-detection/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>BYTES</title>
-		<link>https://whhc-research.github.io/whhc/2023/09/28/bytes/</link>
-					<comments>https://whhc-research.github.io/whhc/2023/09/28/bytes/#respond</comments>
+		<link>https://whhc.in/2023/09/28/bytes/</link>
+					<comments>https://whhc.in/2023/09/28/bytes/#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Thu, 28 Sep 2023 13:02:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://whhc-research.github.io/whhc/?p=100</guid>
+		<guid isPermaLink="false">https://whhc.in/?p=100</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img fetchpriority="high" decoding="async" width="1024" height="576" class="wp-block-cover__image-background wp-image-91" alt="" src="https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1024x576.jpg" data-object-fit="cover" srcset="https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1024x576.jpg 1024w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-300x169.jpg 300w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-768x432.jpg 768w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1536x864.jpg 1536w, https://whhc-research.github.io/whhc/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img fetchpriority="high" decoding="async" width="1024" height="576" class="wp-block-cover__image-background wp-image-91" alt="" src="https://whhc.in/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1024x576.jpg" data-object-fit="cover" srcset="https://whhc.in/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1024x576.jpg 1024w, https://whhc.in/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-300x169.jpg 300w, https://whhc.in/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-768x432.jpg 768w, https://whhc.in/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video-1536x864.jpg 1536w, https://whhc.in/wp-content/uploads/2023/09/red-binary-code-digital-background-free-video.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <pre class="wp-block-code"><code>A byte is a fundamental unit of digital information storage and processing in computing. It represents eight binary digits, or bits, and can encode a single character of text, a small integer, or other basic data types. The term "byte" was coined by Dr. Werner Buchholz in 1956 while working at IBM. He proposed this name to describe a group of bits used to encode a single character. Bytes have since become a cornerstone of computer architecture, allowing the representation of a wide range of data and forming the basis for various data storage and manipulation operations in modern computing systems.</code></pre>
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://whhc-research.github.io/whhc/2023/09/28/bytes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://whhc.in/2023/09/28/bytes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

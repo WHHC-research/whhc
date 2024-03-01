@@ -1,10 +1,10 @@
 === Simply Static ===
 Contributors: patrickposner
 Tags: HTML, static website generator, static site, secure, fast
-Requires at least: 6.2
-Tested up to: 6.3
+Requires at least: 6.3
+Tested up to: 6.4
 Requires PHP: 7.4
-Stable tag: 3.0.9
+Stable tag: 3.1.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -121,24 +121,55 @@ Simply Static Pro has a detailed and comprehensive integration with WP-CLI.
 
 Control every option, run different kinds of exports and more with the WP-CLI integration.
 
-
-= Multisite =
-
-Export your entire network, subsites, change settings on the network level and more.
-
-The multisite integration of Simply Static Pro brings your static network to the next level.
-
-
 = Minification =
 
 Automatically minfiy HTML, CSS and JavaScript files on your static site.
 
 We can even minify inline CSS & JavaScript.
 
+= Optimization =
+
+Replace default WordPress paths and completely hide that you are using WordPress behind the scenes.
+
+Replace:
+
+* wp-content
+* wp-includes
+* wp-content/plugins/
+* wp-content/themes/
+* wp-content/uploads/
+
+
+Hide & Disable:
+
+Disabled unwanted features in WordPress before running an static export like:
+
+* XML-RPC
+* REST API URLs
+* Emoji support
+* Shortlink support
+* WordPress version in HTML
+
+and much more.
 
 = Get the Pro version =
 
 You can get the pro version [here](https://simplystatic.com/simply-static-pro/).
+
+== webtozip ==
+
+We also developed a service called [webtozip.com](https://webtozip.com/).
+
+If all you need is an archive of an existing WordPress website and you don't want to switch to a static site setup, we highly recommend using it instead of Simply Static.
+
+Here are the benefits:
+
+* it runs remotely (not on your server)
+* it is probably faster than running it on your own server
+* you don't have to worry about your WordPress version or your PHP version
+* you get the download link to the ZIP file via e-mail (no need for writing access on your server)
+
+It uses the same codebase as Simply Static but is not a plugin. It is a service that runs on our servers.
 
 = Tutorials =
 
@@ -206,6 +237,65 @@ Simply Static creates a static copy of your WordPress site that is intended to b
 3. Diagnostics
 
 == Changelog ==
+
+= 3.1.6.1 =
+
+* modified default parameters for ss_remote_args filter (file size based on uploads limit)
+
+= 3.1.6 =
+
+* new multisite integration (network, import/export subsites)
+* improved 404 page handling
+* improved secure debug log handling
+* plugin compatibility database integration
+* admin UI improvements (labels, helper texts..)
+* updated translation files
+* improved version output in admin UI
+
+= 3.1.5 =
+
+* refactored additional settings
+* introduced setting for origin URL
+* removed unused helper methods
+* improved requests to itself check in diagnostics
+* improved sanitization for multiline fields
+* load textdomain in init hook instead of plugins_loaded
+* NPM packages updated to latest releases
+
+
+= 3.1.4 =
+
+* added log for replacing 404 pages
+* fix for 404 page in local directory exports
+* clear log before running new export to avoid big file sizes
+* extended ss_remote_args filter with async requests + max file size per request
+* improved sanitization for import/export settings
+* added filter for local URL check
+* improved secure log handling (dynamic filename + .htaccess rule)
+
+= 3.1.3 =
+
+* JS dependencies updated
+* refactored filter implementation for tasks
+* added check for empty strings in excludes
+* removed unused blog_id check
+* changed location of debug log to uploads dir
+* check for Rest API in diagnostics
+* increased PHP version for diagnostics >= 8.0
+* whitelist Freemius API calls if Basic Auth enabled
+
+= 3.1.2 =
+
+* WordPress 6.4 compatibility
+* Improved clearing logs
+* improved capability filter
+
+= 3.1.1 =
+
+* improved admin UI descriptions in general settings
+* added support for 404 pages
+* added error message to WP_Error when archive dir cannot be created
+* added add_status_message method to Simply_Static\Options for WP CLI handling
 
 = 3.1.0 =
 
